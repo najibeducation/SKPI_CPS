@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SKPI_CPS</string>
+
+    <!-- Tambah Data -->
+    <string name="ETIdBar">ID Barang</string>
+    <string name="DeskBar">Deskripsi Barang</string>
+
+    <!-- Update Data -->
+
+</resources>
